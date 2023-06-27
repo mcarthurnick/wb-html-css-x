@@ -1,0 +1,60 @@
+.top {
+    border: 5px black solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+.middle {
+    border: 5px black dotted;
+    margin: 20px;
+    padding: 20px;
+}
+
+.bottom {
+    border: 2px rgb(167, 165, 165) solid;
+    padding: 100px;
+    margin: 0 300px;
+    height: 200px;
+}
+
+#purple {
+    display: inline-block;
+    width: 20px;
+    height: 80px;
+    background-color: purple;
+    margin: 0 20px;
+}
+
+#green {
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    margin: 0 20px;
+}
+
+#blue {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: blue;
+    margin: 0 20px;
+}
+
+#rect {
+    width: auto;
+    height: 200px;
+    background-color:blanchedalmond;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 12px 12px 12px black;
+}
+
+#text-welcome {
+   text-align: center;
+   font-size: x-large;
+    color: navy;
+    padding: 65px;
+    letter-spacing: 6px;
+}
